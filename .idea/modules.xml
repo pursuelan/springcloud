@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configserver/configServer.iml" filepath="$PROJECT_DIR$/configserver/configServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaServer.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productdataservice/product-data-service.iml" filepath="$PROJECT_DIR$/productdataservice/product-data-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/productviewservicefeign/product-view-service-feign.iml" filepath="$PROJECT_DIR$/productviewservicefeign/product-view-service-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hystrixdashboard/productServiceHystrixDashboard.iml" filepath="$PROJECT_DIR$/hystrixdashboard/productServiceHystrixDashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/turbine/productServiceTurbine.iml" filepath="$PROJECT_DIR$/turbine/productServiceTurbine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul/productServiceZuul.iml" filepath="$PROJECT_DIR$/zuul/productServiceZuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>
